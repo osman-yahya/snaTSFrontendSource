@@ -1,0 +1,3 @@
+#TimeSheet Projesinin kaynak kodlarına buradan erişebilirsiniz.
+
+###Herhangi bir sorun durumunda osmanyahyaakinci@icloud.com ile iletişime geçebilirsiniz. Teşekkürler...
